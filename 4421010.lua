@@ -1,0 +1,14 @@
+-- 4421010's Lua and Manifest Created by Hubcap Manifest
+-- Bills Must Be Paid
+-- Created: July 29, 2026 at 16:26:59 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 2
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4421010, 1, "d4498a5e8f21f1b5d64df4737a56df8d5dcb372982757215170308a33112d914") -- Bills Must Be Paid
+-- MAIN APP DEPOTS
+addappid(4421011, 1, "11e5390201ab27a5ff5ccd0a0c03136ba3b4e50f0c08b187d14b36a2a23896d6") -- Depot 4421011
+setManifestid(4421011, "1699724566881471972", 1463971860)
+addappid(4421012, 1, "59e5144afe91bf9c7914f4df2297cdb42b37b584ee885cbbc7f8b4fd6155a156") -- Depot 4421012
+setManifestid(4421012, "4944376811253903900", 1590599410)
