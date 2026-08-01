@@ -1,0 +1,20 @@
+-- 4423700's Lua and Manifest Created by Hubcap Manifest
+-- LAST STAND Apocalypse
+-- Created: August 01, 2026 at 04:46:34 EDT
+-- Website: https://hubcapmanifest.com/
+-- Total Depots: 5
+-- Total DLCs: 0
+
+-- MAIN APPLICATION
+addappid(4423700) -- LAST STAND Apocalypse
+-- MAIN APP DEPOTS
+addappid(4423701, 1, "2c0d4c4e338a5c29657313528c8d3a01a756901c6832712605383424403b3e2d") -- Depot 4423701
+setManifestid(4423701, "1205647410446644962", 586219156)
+addappid(4423702, 1, "b8cd8634d71eac02946359a5f29385c4d0a2c3d80e7cbde841537f20ad0cce92") -- Depot 4423702
+setManifestid(4423702, "4054553625442981290", 654933386)
+addappid(4423703, 1, "e1ef039e0512f5d18a123e15f38a2d4a136c3e2e3141572287c65dc864be2d44") -- Depot 4423703
+setManifestid(4423703, "5546402129440111181", 654933386)
+addappid(4423704, 1, "5c2d1f810b89ca9e45cdc71b051ba363d8e1bdfd0d7695ea4e6dd5601eae4ce1") -- Depot 4423704
+setManifestid(4423704, "7212955435174485840", 654933386)
+addappid(4423705, 1, "a5848fe6de264409f9f610cc61742a4cbead1824224613fdb10324ac943e7202") -- Depot 4423705
+setManifestid(4423705, "7854443826553433384", 654933386)
