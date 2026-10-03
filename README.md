@@ -1,49 +1,60 @@
-<div align="center">
-  <img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="Discord Logo" width="100"/>
-  <h1>📦 WhoziaoHub</h1>
-  <p><b>Thư viện lưu trữ dữ liệu Steam Game Manifest cá nhân</b><br>Tích hợp trực tiếp với Siêu Bot tự động giải nén ZIP <b>Whoziao Depot</b></p>
-</div>
+# Game Uploader - 2 app Python upload game len GitHub
 
-<hr/>
+Hai app doc lap, dung chung `gh_api.py`, khong can git CLI.
 
-## 🎯 Giới Thiệu
-**WhoziaoHub** là một kho dữ liệu (Repository) cá nhân được sinh ra với mục đích dự phòng và lưu trữ các tệp phân quyền tải game của hệ thống Steam (`.manifest`, `.bin`, `.json`). 
+## Chuan bi
 
-Kho lưu trữ này được kết nối trực tiếp với Bot Discord **Whoziao Depot** thông qua GitHub API. Khi người dùng nhập lệnh `/game [AppID]`, Bot sẽ tự động trích xuất các tệp từ nhánh tương ứng có trong kho lưu trữ này, gom lại thành một tệp tin nén `.zip` và gửi tức thời qua Discord.
+```powershell
+pip install requests
+```
 
-## 🛠️ Cấu Trúc Kho Lưu Trữ
-Mỗi tựa game hoặc bản DLC trong kho lưu trữ này được tách biệt hoàn toàn qua **hệ thống Nhánh (Branch)** của GitHub. 
-* Cơ sở dữ liệu mặc định chỉ nằm ở nhánh `main`.
-* Các tệp Manifest cho từng game cụ thể nằm ở nhánh được đặt tên theo đúng số ID của App đó. (Ví dụ: The Witcher 3 có AppID là `292030` thì toàn bộ dữ liệu nằm trên nhánh mang tên `292030`).
+Token: tao Personal Access Token tai https://github.com/settings/tokens
+(scope `repo`). Khong hardcode trong code — app nho token nhap luc chay,
+hoac dat bien moi truong:
 
----
+```powershell
+$env:GITHUB_TOKEN = "ghp_..."
+```
 
-## 🚀 Hướng Dẫn Push/Upload Game Lên Kho
-Có 2 cách để bổ sung kho dữ liệu cho WhoziaoHub, phục vụ cho việc sử dụng từ Bot:
+## App 1 — CLI (`upload_game.py`)
 
-### 1. Upload Thủ Công Trực Tiếp Trên Web
-* Vào giao diện chính của trang Github này.
-* Chuyển nhánh `main` thành một nhánh mới chứa **AppID** của tựa game bạn muốn upload.
-* Nhấp vào **"Add file -> Upload files"**.
-* Kéo ném các file tải cấu hình `.manifest` mà bạn đã chuẩn bị vào và bấm **Commit changes**.
-* Lưu ý: Không cần tạo thư mục trong nhánh. Cứ thả file ở ngoài cùng màn hình của nhánh đó.
+```powershell
+# commit folder game vao repo (tu tao repo neu chua co)
+python upload_game.py --repo my-game --path ..\MyGame
 
-### 2. Sử Dụng Công Cụ Tự Động (Auto Uploader)
-Nếu bạn có sẵn mã nguồn của thư mục `Whoziao-Bot` chạy trên máy chủ:
-* Mở thư mục code Bot lên, tạo một thư mục con tên là `upload_zone`.
-* Bên trong đó, tạo tiếp một thư mục mang mã ID Game (VD: `upload_zone/99999/`).
-* Cho hết file Manifest vào thư mục `99999` vừa tạo.
-* Cuối cùng, chạy file Script tự động: 
-  `python auto_uploader.py`
-Công cụ sẽ tự động rẽ nhánh, copy file, viết commit và push lên thẳng thay bạn! Đỡ phải dùng tay chuột.
+# tao Release + dinh kem file .exe
+python upload_game.py --repo owner/my-game --path ..\MyGame `
+    --release --tag v1.0.0 --asset ..\build\game.exe
+```
 
----
+| Tham so | Y nghia |
+|---|---|
+| `--repo` | `owner/name`, hoac chi `ten` -> them `owner` tu dong |
+| `--path` | thu muc chua game (bat buoc) |
+| `--token` | PAT, bo trong -> `GITHUB_TOKEN` |
+| `--public` | repo public, mac dinh private |
+| `--branch` | de trong -> lay default branch cua repo |
+| `--release` | tao GitHub Release sau khi commit |
+| `--tag` | vd `v1.0.0`, bo trong -> timestamp |
+| `--asset` | nhieu file dinh kem; bo trong -> tu zip source |
+| `--release-notes` | noi dung release |
 
-## 🔒 Điều Khoản và Lưu Ý (Disclaimer)
-* Repository này **KHÔNG** chứa bất kỳ tệp tin bẻ khóa (cr\*ck) hoặc dữ liệu có bản quyền trực tiếp nào của nhà phát hành game (Files Game). Nó chỉ bao gồm chữ ký cơ sở dữ liệu siêu nhỏ gọn tải về từ máy chủ public của Steam.
-* Thông lượng đẩy file ZIP bị giới hạn bởi API Rate Limit mặc định do Cloudflare/Discord quy định đối với mỗi Bot.
+## App 2 — GUI (`upload_game_gui.py`)
 
----
-<div align="center">
-  <i>Được bảo trì hoạt động tự chủ và trọn đời bởi Whoziao.</i>
-</div>
+```powershell
+python upload_game_gui.py
+```
+
+Form nhap token (an "Hien" de xem), chon thu muc game, repo, branch, release
+tag/notes, them file dinh kem. Log + progress bar ben duoi, upload chay
+thread rieng nen giao dien khong tre.
+
+## Luu y
+
+- Commit nhieu file mot luc qua Git Data API (blob -> tree -> commit -> ref),
+  ram hon loop PUT tinh file.
+- `--path` nen tro toi thu muc build/game rieng. App bo qua `.git`,
+  `__pycache__`, `.venv` khi quet.
+- Token trong app la tam thoi, khong ghi ra dia. Neu da dan token vao chat
+  hay source, nen thu hoi (Settings -> Developer settings -> revoke) va tao
+  token moi.
