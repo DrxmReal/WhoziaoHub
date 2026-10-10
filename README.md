@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-10 | [`2010030`](https://github.com/DrxmReal/WhoziaoHub/tree/2010030) | **Denizen** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`4321030`](https://github.com/DrxmReal/WhoziaoHub/tree/4321030) | **MalO On Camera Deluxxx** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`2680280`](https://github.com/DrxmReal/WhoziaoHub/tree/2680280) | **PAPERHEAD** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-08-01 | [`4081840`](https://github.com/DrxmReal/WhoziaoHub/tree/4081840) | **Escape from Yandere** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-01 | [`4929970`](https://github.com/DrxmReal/WhoziaoHub/tree/4929970) | **No Socks RPG** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-01 | [`4570720`](https://github.com/DrxmReal/WhoziaoHub/tree/4570720) | **DragonSword : Awakening** | Tải mới | `✅ Sẵn sàng` |
-| 2026-08-01 | [`4731620`](https://github.com/DrxmReal/WhoziaoHub/tree/4731620) | **Fortune Mill** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
