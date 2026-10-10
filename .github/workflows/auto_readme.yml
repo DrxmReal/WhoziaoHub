@@ -1,4 +1,4 @@
-name: Auto Update README on Game Push
+name: Auto Update README
 
 on:
   push:
@@ -6,14 +6,14 @@ on:
       - '**'
       - '!main'
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout main branch
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           ref: main
@@ -23,61 +23,16 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Run Auto Update README Script
+      - name: Update README
         env:
           BRANCH_NAME: ${{ github.ref_name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
         run: |
-          python -c "
-          import os, requests, datetime
-
-          branch = os.environ.get('BRANCH_NAME', '')
-          if not branch or not branch.isdigit():
-              exit(0)
-
-          game_name = f'Game {branch}'
-          try:
-              res = requests.get(f'https://store.steampowered.com/api/appdetails?appids={branch}', timeout=10)
-              d = res.json()
-              if d and str(branch) in d and d[str(branch)].get('success'):
-                  game_name = d[str(branch)]['data']['name']
-          except Exception as e:
-              pass
-
-          if not os.path.exists('README.md'):
-              exit(0)
-
-          with open('README.md', 'r', encoding='utf-8') as f:
-              content = f.read()
-
-          start_tag = '<!-- RECENT_GAMES_START -->'
-          end_tag = '<!-- RECENT_GAMES_END -->'
-          if start_tag not in content or end_tag not in content:
-              exit(0)
-
-          today_str = datetime.datetime.now().strftime('%Y-%m-%d')
-          new_row = f'| {today_str} | [\`{branch}\`](<https://github.com/${{{{ github.repository }}}}/tree/{branch}>) | **{game_name}** | Tải mới | \`✅ Sẵn sàng\` |'
-
-          before = content.split(start_tag)[0] + start_tag + '\n'
-          middle_and_after = content.split(start_tag)[1]
-          table_part, after = middle_and_after.split(end_tag)
-
-          lines = [line.strip() for line in table_part.strip().split('\n') if line.strip()]
-          header_lines = lines[:2]
-          existing_rows = lines[2:]
-
-          existing_rows = [row for row in existing_rows if f'\`{branch}\`' not in row]
-          updated_rows = [new_row] + existing_rows[:14]
-
-          new_table = '\n'.join(header_lines + updated_rows) + '\n'
-          updated_readme = before + new_table + end_tag + after
-
-          with open('README.md', 'w', encoding='utf-8') as f:
-              f.write(updated_readme)
-          "
+          python .github/scripts/update_readme.py
 
       - name: Commit and Push README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || (git commit -m "docs(readme): tự động cập nhật game ${{ github.ref_name }} [skip ci]" && git push origin main)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs(readme): auto update game ${{ github.ref_name }} [skip ci]" && git push origin main)
