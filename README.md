@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://discord.com/assets/f9bb9c4af2b9c32a2c5ee0014661546d.png" alt="Discord Logo" width="100"/>
+  <img src="logo.png" alt="WhoziaoHub Logo" width="130"/>
   <h1>📦 WhoziaoHub</h1>
   <p><b>Thư viện lưu trữ dữ liệu Steam Game Manifest & Cloud Depot cá nhân</b><br>
   Tự động đồng bộ và nạp game trực tiếp qua <b>Whoziao Depot Bot & SLK Unlocker</b></p>
@@ -54,15 +54,6 @@ Mỗi tựa game hoặc bản DLC trong kho lưu trữ này được tách biệ
   - `<appid>.lua` (Script SmokeAPI / SteamTools)
   - `*.manifest` (File phân quyền Steam)
   - `key.vdf` (Key giải mã AES depot riêng của game)
-
----
-
-## 🚀 Tự Động Cập Nhật (Auto Uploader Bot)
-Khi quản trị viên sử dụng lệnh Discord Slash Command:
-* `/hubget [app_id]` — Tải game mới từ Hubcap và đẩy thẳng lên branch tương ứng.
-* `/hubupdate [app_id]` — Cập nhật manifest phiên bản mới cho game đã có.
-
-Bot sẽ tự động tạo branch sạch, giải nén file, ký commit và **tự động cập nhật bảng danh mục trên README này**!
 
 ---
 
