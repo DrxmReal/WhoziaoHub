@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="logo.png" alt="WhoziaoHub Logo" width="130"/>
-  <h1>📦 WhoziaoHub</h1>
+  <img src="image.png" alt="WhoziaoHub Logo" width="130"/>
+  <h1>WhoziaoHub</h1>
   <p><b>Thư viện lưu trữ dữ liệu Steam Game Manifest & Cloud Depot cá nhân</b><br>
   Tự động đồng bộ và nạp game trực tiếp qua <b>Whoziao Depot Bot & SLK Unlocker</b></p>
 
