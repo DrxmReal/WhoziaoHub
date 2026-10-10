@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-10 | [`4284570`](https://github.com/DrxmReal/WhoziaoHub/tree/4284570) | **Blind Box Shop Simulator** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`5155360`](https://github.com/DrxmReal/WhoziaoHub/tree/5155360) | **Hood Warfare 2** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`3090810`](https://github.com/DrxmReal/WhoziaoHub/tree/3090810) | **Truckful** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`2010030`](https://github.com/DrxmReal/WhoziaoHub/tree/2010030) | **Denizen** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-08-21 | [`4255580`](https://github.com/DrxmReal/WhoziaoHub/tree/4255580) | **Mouse X** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-16 | [`4148670`](https://github.com/DrxmReal/WhoziaoHub/tree/4148670) | **Sex Shop Simulator: X-RAY DESIRE** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-03 | [`4587800`](https://github.com/DrxmReal/WhoziaoHub/tree/4587800) | **Married Witch: Forbidden Affair** | Tải mới | `✅ Sẵn sàng` |
-| 2026-08-01 | [`4081840`](https://github.com/DrxmReal/WhoziaoHub/tree/4081840) | **Escape from Yandere** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
