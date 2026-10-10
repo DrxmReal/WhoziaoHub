@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-10 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-09 | [`5189090`](https://github.com/DrxmReal/WhoziaoHub/tree/5189090) | **Clean up redundant auto-uploader scripts and JSON database files** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-09 | [`4148240`](https://github.com/DrxmReal/WhoziaoHub/tree/4148240) | **Road to Empress Ⅱ** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-03 | [`4833770`](https://github.com/DrxmReal/WhoziaoHub/tree/4833770) | **Spirit Route (4833770)** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-08-01 | [`4731620`](https://github.com/DrxmReal/WhoziaoHub/tree/4731620) | **Fortune Mill** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-01 | [`4458730`](https://github.com/DrxmReal/WhoziaoHub/tree/4458730) | **NTR Hunter** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-01 | [`4937340`](https://github.com/DrxmReal/WhoziaoHub/tree/4937340) | **Boobs & Hexes** | Tải mới | `✅ Sẵn sàng` |
-| 2026-08-01 | [`4939160`](https://github.com/DrxmReal/WhoziaoHub/tree/4939160) | **SEX Dreams at the Motel** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
