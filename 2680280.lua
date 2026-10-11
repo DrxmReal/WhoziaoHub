@@ -1,7 +1,8 @@
--- 2680280's Lua and Manifest Created by Hubcap Manifest
+-- 2680280's Lua and Manifest Created by SLK Unlocker
 -- PAPERHEAD
 -- Created: October 09, 2026 at 15:19:33 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25829881 (public branch)
 -- Build Date: October 09, 2026 at 09:15:06 EDT (1791551706)
 -- Total Depots: 1
