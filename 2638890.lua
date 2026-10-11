@@ -1,7 +1,8 @@
--- 2638890's Lua and Manifest Created by Hubcap Manifest
+-- 2638890's Lua and Manifest Created by SLK Unlocker
 -- Onimusha: Way of the Sword
 -- Created: September 04, 2026 at 00:35:10 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Total Depots: 26
 -- Total DLCs: 24 (3 excluded)
 -- Shared Depots: 1
