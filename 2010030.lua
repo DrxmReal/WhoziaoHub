@@ -1,7 +1,8 @@
--- 2010030's Lua and Manifest Created by Hubcap Manifest
+-- 2010030's Lua and Manifest Created by SLK Unlocker
 -- Denizen
 -- Created: October 09, 2026 at 21:33:30 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25842913 (public branch)
 -- Build Date: October 09, 2026 at 21:19:37 EDT (1791595177)
 -- Total Depots: 1
