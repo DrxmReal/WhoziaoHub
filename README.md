@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-11 | [`1808500`](https://github.com/DrxmReal/WhoziaoHub/tree/1808500) | **ARC Raiders** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`4580600`](https://github.com/DrxmReal/WhoziaoHub/tree/4580600) | **Animaly Bar: NO HUMANITY!** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`4284570`](https://github.com/DrxmReal/WhoziaoHub/tree/4284570) | **Blind Box Shop Simulator** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`5155360`](https://github.com/DrxmReal/WhoziaoHub/tree/5155360) | **Hood Warfare 2** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-09-07 | [`5053820`](https://github.com/DrxmReal/WhoziaoHub/tree/5053820) | **Mimic Party** | Tải mới | `✅ Sẵn sàng` |
 | 2026-09-03 | [`4001890`](https://github.com/DrxmReal/WhoziaoHub/tree/4001890) | **How to Fish** | Tải mới | `✅ Sẵn sàng` |
 | 2026-08-21 | [`4255580`](https://github.com/DrxmReal/WhoziaoHub/tree/4255580) | **Mouse X** | Tải mới | `✅ Sẵn sàng` |
-| 2026-08-16 | [`4148670`](https://github.com/DrxmReal/WhoziaoHub/tree/4148670) | **Sex Shop Simulator: X-RAY DESIRE** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
