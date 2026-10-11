@@ -1,7 +1,8 @@
--- 4284570's Lua and Manifest Created by Hubcap Manifest
+-- 4284570's Lua and Manifest Created by SLK Unlocker
 -- Blind Box Shop Simulator
 -- Created: September 20, 2026 at 08:04:02 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 24775611 (public branch)
 -- Build Date: August 17, 2026 at 07:52:58 EDT (1786967578)
 -- Total Depots: 2
