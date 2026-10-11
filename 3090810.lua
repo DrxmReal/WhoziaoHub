@@ -1,7 +1,8 @@
--- 3090810's Lua and Manifest Created by Hubcap Manifest
+-- 3090810's Lua and Manifest Created by SLK Unlocker
 -- Truckful
 -- Created: October 09, 2026 at 13:49:24 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25829507 (public branch)
 -- Build Date: October 09, 2026 at 08:57:59 EDT (1791550679)
 -- Total Depots: 3
