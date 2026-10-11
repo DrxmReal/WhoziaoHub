@@ -1,7 +1,8 @@
--- 1808500's Lua and Manifest Created by Hubcap Manifest
+-- 1808500's Lua and Manifest Created by SLK Unlocker
 -- ARC Raiders
 -- Created: October 09, 2026 at 08:50:20 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25812307 (public branch)
 -- Build Date: October 08, 2026 at 15:18:32 EDT (1791487112)
 -- Total Depots: 3
