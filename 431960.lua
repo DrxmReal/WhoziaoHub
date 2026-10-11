@@ -1,7 +1,8 @@
--- 431960's Lua and Manifest Created by Hubcap Manifest
+-- 431960's Lua and Manifest Created by SLK Unlocker
 -- Wallpaper Engine
 -- Created: June 29, 2026 at 11:38:58 EDT
--- Website: https://hubcapmanifest.com/
+-- 
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Total Depots: 3
 -- Total DLCs: 1
 
