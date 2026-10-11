@@ -1,7 +1,8 @@
--- 5155360's Lua and Manifest Created by Hubcap Manifest
+-- 5155360's Lua and Manifest Created by SLK Unlocker
 -- Hood Warfare 2
 -- Created: October 09, 2026 at 02:08:21 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25821950 (public branch)
 -- Build Date: October 09, 2026 at 02:00:54 EDT (1791525654)
 -- Total Depots: 4
