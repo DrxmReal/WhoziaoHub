@@ -1,7 +1,8 @@
--- 4321030's Lua and Manifest Created by Hubcap Manifest
+-- 4321030's Lua and Manifest Created by SLK Unlocker
 -- MalO On Camera Deluxxx
 -- Created: October 09, 2026 at 10:29:18 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25831064 (public branch)
 -- Build Date: October 09, 2026 at 10:05:16 EDT (1791554716)
 -- Total Depots: 1
