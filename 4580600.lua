@@ -1,7 +1,8 @@
--- 4580600's Lua and Manifest Created by Hubcap Manifest
+-- 4580600's Lua and Manifest Created by SLK Unlocker
 -- Animaly Bar: NO HUMANITY!
 -- Created: October 02, 2026 at 06:47:54 EDT
--- Website: https://hubcapmanifest.com/
+
+-- Discord: https://discord.gg/xUhRdVV2MV
 -- Build: 25674191 (public branch)
 -- Build Date: October 02, 2026 at 06:03:38 EDT (1790935418)
 -- Total Depots: 3
