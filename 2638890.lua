@@ -1,10 +1,11 @@
--- 2638890's Lua and Manifest Created by SLK Unlocker
+-- 2638890's Lua and Manifest Created by Hubcap Manifest
 -- Onimusha: Way of the Sword
--- Created: September 04, 2026 at 00:35:10 EDT
-
--- Discord: https://discord.gg/xUhRdVV2MV
--- Total Depots: 26
--- Total DLCs: 24 (3 excluded)
+-- Created: September 22, 2026 at 09:20:22 EDT
+-- Website: https://hubcapmanifest.com/
+-- Build: 24769601 (public branch)
+-- Build Date: August 16, 2026 at 23:27:47 EDT (1786937267)
+-- Total Depots: 30
+-- Total DLCs: 28 (3 excluded)
 -- Shared Depots: 1
 
 -- MAIN APPLICATION
@@ -88,6 +89,10 @@ setManifestid(3935780, "1905616808444006027", 98175141)
 addappid(3935790)
 addappid(3935790, 1, "f80c521e9ef6a61b9d5b12c30487237c5b9d0ba5596e3de9d5b288581d3d81c4") -- Onimusha WotS - Outfit for Okuni Oni Dance - Depot 3935790
 setManifestid(3935790, "2636126909798155901", 192116213)
+-- Onimusha WotS - Outfit for Okuni Yomogis Dance (AppID: 3935810)
+addappid(3935810)
+addappid(3935810, 1, "d157590e4c02a3b93726fe8c10c37dae8629fcd3b8cd0cf13bccf66c7a23711f") -- Onimusha WotS - Outfit for Okuni Yomogis Dance - Depot 3935810
+setManifestid(3935810, "2155604707961816536", 91006403)
 -- Onimusha WotS - Outfit for the Oni Lady Bird Call (AppID: 3935820)
 addappid(3935820)
 addappid(3935820, 1, "3ba87767f5e77a9edc993a83f3a903d0a16e4edbd84e631b5afce889a61df78a") -- Onimusha WotS - Outfit for the Oni Lady Bird Call - Depot 3935820
@@ -100,10 +105,22 @@ setManifestid(3935830, "6920370433013846765", 65281968)
 addappid(3935840)
 addappid(3935840, 1, "c841af808b50e24f2edde0ebec5b4584ef66fbf02f426018e606187791793c38") -- Onimusha WotS - Outfit for the Oni Lady Elegance - Depot 3935840
 setManifestid(3935840, "7976919454910969079", 88952789)
+-- Onimusha WotS - Outfit for the Oni Lady Hinoa (AppID: 3935850)
+addappid(3935850)
+addappid(3935850, 1, "9637f83231589a04634fb7540ab434bd9564738ac4935f6d336165b764f334c5") -- Onimusha WotS - Outfit for the Oni Lady Hinoa - Depot 3935850
+setManifestid(3935850, "6864373056384121676", 91367884)
 -- Onimusha WotS - Materials Pack Red Souls I (AppID: 3935880)
 addappid(3935880)
 addappid(3935880, 1, "9dd129eb50fbfced37a7a85d8af63228eb7e33170d9637ecfb72da05cf087497") -- Onimusha WotS - Materials Pack Red Souls I - Depot 3935880
 setManifestid(3935880, "8349835451433793566", 933)
+-- Onimusha WotS - Materials Pack Red Souls II (AppID: 3935890)
+addappid(3935890)
+addappid(3935890, 1, "b0e2af281535472ca399b3d10b1729310f47a6c471083d20562ef7bd85f4f71a") -- Onimusha WotS - Materials Pack Red Souls II - Depot 3935890
+setManifestid(3935890, "6145487992002819353", 930)
+-- Onimusha WotS - Materials Pack Enhancements III (AppID: 3935990)
+addappid(3935990)
+addappid(3935990, 1, "98e39294297bd857cd61653600a81353bc3ee787dd036d50de8347d865282cce") -- Onimusha WotS - Materials Pack Enhancements III - Depot 3935990
+setManifestid(3935990, "2311043180803914860", 944)
 -- Onimusha WotS - In-Game Mini Digital Soundtrack (AppID: 3936020)
 addappid(3936020)
 addappid(3936020, 1, "6d68fa8fc4c1743ef07f48eedaba7e6ab457fbb586dad87a5a93dfeabff8a7cc") -- Onimusha WotS - In-Game Mini Digital Soundtrack - Depot 3936020
@@ -116,10 +133,10 @@ setManifestid(4053020, "3952155057430317179", 14573649)
 -- DLCS EXCLUDED (MISSING DEPOT KEYS)
 -- Onimusha WotS - Materials Pack Personal Effects I (AppID: 3935860) - missing depot keys
 -- addappid(3935860)
--- Onimusha WotS - Materials Pack Red Souls II (AppID: 3935890) - missing depot keys
--- addappid(3935890)
--- Onimusha WotS - Materials Pack Enhancements III (AppID: 3935990) - missing depot keys
--- addappid(3935990)
+-- Onimusha WotS - Materials Pack Red Souls III (AppID: 3935900) - missing depot keys
+-- addappid(3935900)
+-- Onimusha WotS - Materials Pack Offerings II (AppID: 3935930) - missing depot keys
+-- addappid(3935930)
 -- EMPTY DEPOTS (no content on any branch)
 -- addappid(3935600) -- Depot 3935600 (empty depot)
 -- addappid(5040270) -- Depot 5040270 (empty depot)
