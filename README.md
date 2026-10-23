@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-23 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-19 | [`1912410`](https://github.com/DrxmReal/WhoziaoHub/tree/1912410) | **Minecraft Dungeons II** | Cập nhật | `✅ Sẵn sàng` |
 | 2026-10-18 | [`4758380`](https://github.com/DrxmReal/WhoziaoHub/tree/4758380) | **The 3 Anal Piggies** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-18 | [`3548580`](https://github.com/DrxmReal/WhoziaoHub/tree/3548580) | **Chill with You : Lo-Fi Story** | Tải mới | `✅ Sẵn sàng` |
@@ -38,7 +39,6 @@
 | 2026-10-10 | [`2010030`](https://github.com/DrxmReal/WhoziaoHub/tree/2010030) | **Denizen** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`4321030`](https://github.com/DrxmReal/WhoziaoHub/tree/4321030) | **MalO On Camera Deluxxx** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`2680280`](https://github.com/DrxmReal/WhoziaoHub/tree/2680280) | **PAPERHEAD** | Tải mới | `✅ Sẵn sàng` |
-| 2026-10-10 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-09 | [`5189090`](https://github.com/DrxmReal/WhoziaoHub/tree/5189090) | **Clean up redundant auto-uploader scripts and JSON database files** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
