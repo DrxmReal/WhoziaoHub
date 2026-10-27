@@ -1,89 +1,53 @@
 {
-    "appid": 386070,
-    "name": "Planetary Annihilation: TITANS",
-    "type": "Game",
-    "schinese_name": "行星的毁灭：泰坦",
-    "isfreeapp": 0,
-    "update_time": "2025-07-21 19:26:48",
-    "change_number": 30172225,
     "depot": {
-        "228984": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228988": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "228990": {
-            "config": {
-                "oslist": "windows"
-            },
-            "depotfromapp": "228980",
-            "sharedinstall": "1"
-        },
-        "baselanguages": "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese",
         "386071": {
-            "config": {
-                "oslist": "windows"
-            },
             "manifests": {
                 "public": {
-                    "gid": "1211656243526144705",
-                    "size": "213507314",
-                    "download": "67693104"
+                    "gid": "9011371020874211927"
                 }
-            },
-            "decryptionkey": "6c0a8f44035b5cc530870da7203e593924817ee6e29398c5cb1402121c75cd30"
+            }
         },
         "386072": {
-            "config": {
-                "oslist": "macos"
-            },
             "manifests": {
                 "public": {
-                    "gid": "2255841772223420945",
-                    "size": "356053584",
-                    "download": "78315424"
+                    "gid": "1714288804101356446"
                 }
-            },
-            "decryptionkey": "797f31c15a6d3044afc9e27d5b23cac73cb71b51b38a24dc33010e1b71f02f10"
+            }
         },
         "386073": {
-            "config": {
-                "oslist": "linux"
-            },
             "manifests": {
                 "public": {
-                    "gid": "8295274739693542440",
-                    "size": "942232285",
-                    "download": "275673200"
+                    "gid": "795151554599591569"
                 }
-            },
-            "decryptionkey": "600fe1fe56dba345ffd6c99f073bca9cb789f504381848aaf9a8a300fb7ddcc6"
+            }
         },
         "386074": {
             "manifests": {
                 "public": {
-                    "gid": "5673332339645278784",
-                    "size": "3254392893",
-                    "download": "1973453456"
+                    "gid": "763343642012304597"
                 }
-            },
-            "decryptionkey": "62e39b8a0bef75660759bacc905ed99c0e1aa35e8520225272846be0b0941754"
-        },
-        "branches": {
-            "public": {
-                "buildid": "19294697",
-                "timeupdated": "1753122406"
             }
         },
-        "privatebranches": "1"
+        "228984": {
+            "manifests": {
+                "public": {
+                    "gid": "2547553897526095397"
+                }
+            }
+        },
+        "228988": {
+            "manifests": {
+                "public": {
+                    "gid": "6645201662696499616"
+                }
+            }
+        },
+        "228990": {
+            "manifests": {
+                "public": {
+                    "gid": "1829726630299308803"
+                }
+            }
+        }
     }
 }
