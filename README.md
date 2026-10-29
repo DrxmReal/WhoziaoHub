@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-29 | [`4115450`](https://github.com/DrxmReal/WhoziaoHub/tree/4115450) | **Phantom Blade Zero** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-27 | [`993090`](https://github.com/DrxmReal/WhoziaoHub/tree/993090) | **Lossless Scaling** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-27 | [`386070`](https://github.com/DrxmReal/WhoziaoHub/tree/386070) | **Planetary Annihilation: TITANS** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-23 | [`3216900`](https://github.com/DrxmReal/WhoziaoHub/tree/3216900) | **Boom Boom KONBINI** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-10-10 | [`4284570`](https://github.com/DrxmReal/WhoziaoHub/tree/4284570) | **Blind Box Shop Simulator** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`5155360`](https://github.com/DrxmReal/WhoziaoHub/tree/5155360) | **Hood Warfare 2** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`3090810`](https://github.com/DrxmReal/WhoziaoHub/tree/3090810) | **Truckful** | Tải mới | `✅ Sẵn sàng` |
-| 2026-10-10 | [`2010030`](https://github.com/DrxmReal/WhoziaoHub/tree/2010030) | **Denizen** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
