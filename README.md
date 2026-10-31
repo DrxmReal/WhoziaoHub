@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-10-31 | [`4395870`](https://github.com/DrxmReal/WhoziaoHub/tree/4395870) | **Magical Girl ER** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`3370490`](https://github.com/DrxmReal/WhoziaoHub/tree/3370490) | **Giggleland** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`4105670`](https://github.com/DrxmReal/WhoziaoHub/tree/4105670) | **The SeethingSwarm Collection** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-29 | [`4115450`](https://github.com/DrxmReal/WhoziaoHub/tree/4115450) | **Phantom Blade Zero** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-10-17 | [`4901260`](https://github.com/DrxmReal/WhoziaoHub/tree/4901260) | **GON: God Of Nothing** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-11 | [`1808500`](https://github.com/DrxmReal/WhoziaoHub/tree/1808500) | **ARC Raiders** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-10 | [`4580600`](https://github.com/DrxmReal/WhoziaoHub/tree/4580600) | **Animaly Bar: NO HUMANITY!** | Tải mới | `✅ Sẵn sàng` |
-| 2026-10-10 | [`4284570`](https://github.com/DrxmReal/WhoziaoHub/tree/4284570) | **Blind Box Shop Simulator** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
