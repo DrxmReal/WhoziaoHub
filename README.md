@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-11-01 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`3633250`](https://github.com/DrxmReal/WhoziaoHub/tree/3633250) | **Junji Ito Maniac: An Infinite Gaol** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`4018740`](https://github.com/DrxmReal/WhoziaoHub/tree/4018740) | **Hariti** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`4395870`](https://github.com/DrxmReal/WhoziaoHub/tree/4395870) | **Magical Girl ER** | Tải mới | `✅ Sẵn sàng` |
@@ -34,7 +35,6 @@
 | 2026-10-27 | [`993090`](https://github.com/DrxmReal/WhoziaoHub/tree/993090) | **Lossless Scaling** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-27 | [`386070`](https://github.com/DrxmReal/WhoziaoHub/tree/386070) | **Planetary Annihilation: TITANS** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-23 | [`3216900`](https://github.com/DrxmReal/WhoziaoHub/tree/3216900) | **Boom Boom KONBINI** | Tải mới | `✅ Sẵn sàng` |
-| 2026-10-23 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-19 | [`1912410`](https://github.com/DrxmReal/WhoziaoHub/tree/1912410) | **Minecraft Dungeons II** | Cập nhật | `✅ Sẵn sàng` |
 | 2026-10-18 | [`4758380`](https://github.com/DrxmReal/WhoziaoHub/tree/4758380) | **The 3 Anal Piggies** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-18 | [`3548580`](https://github.com/DrxmReal/WhoziaoHub/tree/3548580) | **Chill with You : Lo-Fi Story** | Tải mới | `✅ Sẵn sàng` |
