@@ -25,6 +25,7 @@
 <!-- RECENT_GAMES_START -->
 | Ngày cập nhật | AppID | Tên Game | Thao tác | Trạng thái |
 | :---: | :---: | :--- | :---: | :---: |
+| 2026-11-02 | [`4001890`](https://github.com/DrxmReal/WhoziaoHub/tree/4001890) | **How to Fish** | Cập nhật | `✅ Sẵn sàng` |
 | 2026-11-01 | [`4121170`](https://github.com/DrxmReal/WhoziaoHub/tree/4121170) | **Fears to Fathom® - Scratch Creek** | Tải mới | `✅ Sẵn sàng` |
 | 2026-11-01 | [`2638890`](https://github.com/DrxmReal/WhoziaoHub/tree/2638890) | **Onimusha: Way of the Sword** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-31 | [`3633250`](https://github.com/DrxmReal/WhoziaoHub/tree/3633250) | **Junji Ito Maniac: An Infinite Gaol** | Tải mới | `✅ Sẵn sàng` |
@@ -39,7 +40,6 @@
 | 2026-10-19 | [`1912410`](https://github.com/DrxmReal/WhoziaoHub/tree/1912410) | **Minecraft Dungeons II** | Cập nhật | `✅ Sẵn sàng` |
 | 2026-10-18 | [`4758380`](https://github.com/DrxmReal/WhoziaoHub/tree/4758380) | **The 3 Anal Piggies** | Tải mới | `✅ Sẵn sàng` |
 | 2026-10-18 | [`3548580`](https://github.com/DrxmReal/WhoziaoHub/tree/3548580) | **Chill with You : Lo-Fi Story** | Tải mới | `✅ Sẵn sàng` |
-| 2026-10-18 | [`2958130`](https://github.com/DrxmReal/WhoziaoHub/tree/2958130) | **Jurassic World Evolution 3** | Tải mới | `✅ Sẵn sàng` |
 <!-- RECENT_GAMES_END -->
 
 > 💡 *Bảng trên được tự động cập nhật mỗi khi Bot hoặc SLK Unlocker đẩy game mới lên kho lưu trữ.*
